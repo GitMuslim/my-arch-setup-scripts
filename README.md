@@ -1,2 +1,2 @@
 # my-arch-setup-scripts
-a bunch of bash scripts to install some programs that I'm too lazy to do manually 
+a bunch of bash scripts to install some programs that I'm too lazy to do manually on every reinstall of arch linux
